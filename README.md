@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Charlie Emanuel
-- 👀 I’m interested in Web development and Back-end Developer
-- 🌱 I’m currently learning Python, HTML, CSS and JavaScript
+- 👀 I’m studying web developmnt
+- 🌱 My current technologies are HTML5, CSS3, JavaScript, Bootstrap, Figma, JQuery, React, and Git 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
